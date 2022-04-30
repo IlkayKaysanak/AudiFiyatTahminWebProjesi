@@ -1,7 +1,7 @@
 # AudiFiyatTahminWebProjesi
 Audi marka aracın fiyatlarını tahmin eden web sitesi
 
-Verimin eğitimini için Random Forest algoritmasını, web sitesi için Flask kütüphanesini kullandım
+Verinin eğitimi için Random Forest algoritmasını, web sitesi için Flask kütüphanesini kullandım
 
 
 ![image](https://user-images.githubusercontent.com/62389004/166107469-af576db6-c2ac-4868-9a38-f7de22e769b3.png)
